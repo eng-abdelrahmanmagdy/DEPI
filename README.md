@@ -85,10 +85,6 @@ Details for **Week 3** tasks will include:
 
 ![](https://github.com/osama1hatem2abdelkreem3/customer-Management-/blob/main/pics/week%204/DATA.png)
 
-![Lake Database](https://github.com/osama1hatem2abdelkreem3/customer-Management-/blob/main/pics/week%204/DATA.png)
-
-![Pipeline Run](https://github.com/osama1hatem2abdelkreem3/customer-Management-/blob/main/pics/week%204/DATA.png)
-
 In **Week 4**, the focus will shift to:
 - **Integrating** the predictive models and data pipelines.
 - **Building reporting tools** to visualize key business metrics, using **Power BI** or similar tools.
